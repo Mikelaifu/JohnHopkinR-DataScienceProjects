@@ -1,1 +1,10 @@
 # R_Data_Manipulation_projects
+
+
+* Hosptal_Mortality_rate_Analysis : 
+
+Using R to apply functions to read big data files to get simple discriptive analysis on data to return filtered result of the best hospital in 50 states with their respective mortality rate from different diseases and symptoms. 
+
+* Weather_Element_Data_project: 
+
+Using R to apply functions to read 332 csv files and perform simple statistic analysis on all weather element data record with mean, sum, coorelations
