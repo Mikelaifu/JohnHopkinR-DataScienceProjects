@@ -14,4 +14,6 @@ Using R to apply functions to read 332 csv files and perform simple statistic an
 
 Using R data cleaning and reshaping skills to parse and extrcats strings info and plot into difference columns, cleaned data and reshape data on simple variables analysis
 
+* ActivityAnalysis online report link: http://rpubs.com/Data4fun/454517
+
 ## B. Visualizing data
